@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
+<h1 align="center">Hi, I'm Elias</h1>
 <h3 align="center">A young developper who is looking for a work-study placement in a company</h3>
 
-- 🌱 I’m currently learning **Django and things that are related to datas**
+- I’m currently learning **Django and things that are related to datas**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TortueBurger](https://github.com/TortueBurger)
+- All of my projects are available at [https://github.com/TortueBurger](https://github.com/TortueBurger)
 
-- 📫 How to reach me **elias.parcet@gmail.com**
+- How to reach me **elias.parcet@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7447344500294885376/?originTrackingId=0ri2DjeMqS5KD8G8D0PsMg%3D%3D](https://www.linkedin.com/feed/update/urn:li:activity:7447344500294885376/?originTrackingId=0ri2DjeMqS5KD8G8D0PsMg%3D%3D)
+- Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:7447344500294885376/?originTrackingId=0ri2DjeMqS5KD8G8D0PsMg%3D%3D](https://www.linkedin.com/feed/update/urn:li:activity:7447344500294885376/?originTrackingId=0ri2DjeMqS5KD8G8D0PsMg%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
